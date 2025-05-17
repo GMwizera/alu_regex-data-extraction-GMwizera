@@ -1,0 +1,61 @@
+{
+  "profile_owner": "gisele_mwizera",
+  "followers": [
+    {
+      "username": "techgirl_250",
+      "full_name": "Claudine Niyonsaba",
+      "bio": "Software Engineer | #WomenInTech 💻 | Contact: claudine.tech@gmail.com 📱 +250788112233",
+      "email": "claudine.tech@gmail.com",
+      "phone": "(250) 788112233",
+      "website": "https://github.com/claudine250",
+      "followers": 3200,
+      "following": 150,
+      "verified": false,
+      "posts": 89,
+      "joined": "2019-06-14",
+      "hashtags": ["#WomenInTech", "#TechGirl", "#CodeNewbie"]
+    },
+    {
+      "username": "afro.stylez",
+      "full_name": "Afro Fashionista",
+      "bio": "Bringing African culture to the world 🌍 | DM for collabs 📩 | #KigaliStyle #Fashion",
+      "email": "null",
+      "phone": null,
+      "website": "https://afrostylez.com",
+      "followers": 10200,
+      "following": 900,
+      "verified": true,
+      "posts": 542,
+      "joined": "2018-03-22",
+      "hashtags": ["#KigaliStyle", "#Fashion", "#AfricanCulture"]
+    },
+    {
+      "username": "codeking.rw",
+      "full_name": "Jean de Dieu Mugenzi",
+      "bio": "CTO @RwTech 💼 | AI Dev | email: mugenzi@rwtech.rw | Call: 0788123123",
+      "email": "mugenzi@rwtech.rw",
+      "phone": "0788123123",
+      "website": "https://rwtech.rw/team/mugenzi",
+      "followers": 780,
+      "following": 300,
+      "verified": false,
+      "posts": 121,
+      "joined": "2020-11-01",
+      "hashtags": ["#AI", "#Tech", "#Code"]
+    },
+    {
+      "username": "healthplus_clinic",
+      "full_name": "Health Plus Clinic",
+      "bio": "Private Clinic | Book online or call 0788990000 | #KigaliHealth #Wellness",
+      "email": null,
+      "phone": "0788990000",
+      "website": "https://healthplus.rw",
+      "followers": 5700,
+      "following": 77,
+      "verified": true,
+      "posts": 312,
+      "joined": "2021-01-10",
+      "hashtags": ["#KigaliHealth", "#Wellness", "#Health"]
+    }
+  ]
+}
