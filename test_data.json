@@ -1,5 +1,10 @@
 {
   "profile_owner": "gisele_mwizera",
+  "page_structure": {
+    "header": "<header class=\"main-header\"><nav><ul><li><a href=\"/\">Home</a></li><li><a href=\"/about\">About</a></li></ul></nav></header>",
+    "main": "<main><section class=\"profile\"><div class=\"avatar\"><img src=\"/images/gisele.jpg\" alt=\"Gisele Mwizera\"></div><h1>Gisele Mwizera</h1><p class=\"bio\">Full Stack Developer | Tech Enthusiast | Kigali</p></section></main>",
+    "footer": "<footer><p>&copy; 2025 Social Platform</p></footer>"
+  },
   "followers": [
     {
       "username": "techgirl_250",
@@ -13,7 +18,11 @@
       "verified": false,
       "posts": 89,
       "joined": "2019-06-14",
-      "hashtags": ["#WomenInTech", "#TechGirl", "#CodeNewbie"]
+      "hashtags": ["#WomenInTech", "#TechGirl", "#CodeNewbie"],
+      "availability": "Online every day from 9:00 AM to 18:30",
+      "latest_post": {
+        "content": "Just launched my new <div class=\"project\">Portfolio Site</div> with <span class=\"tech\">React</span> and <span class=\"tech\">Node.js</span>. Check it out at my bio link! <a href=\"https://claudine.tech\">Visit Site</a>"
+      }
     },
     {
       "username": "afro.stylez",
@@ -27,7 +36,17 @@
       "verified": true,
       "posts": 542,
       "joined": "2018-03-22",
-      "hashtags": ["#KigaliStyle", "#Fashion", "#AfricanCulture"]
+      "hashtags": ["#KigaliStyle", "#Fashion", "#AfricanCulture"],
+      "schedule": {
+        "Monday": "10:30 - 15:45",
+        "Tuesday": "14:30 - 19:00",
+        "Wednesday": "Off",
+        "Thursday": "12:00 PM - 8:30 PM",
+        "Friday": "9:15 AM - 5:00 PM"
+      },
+      "latest_post": {
+        "content": "New collection drop! <img src=\"/collections/summer2023.jpg\" alt=\"Summer Collection 2023\"> <button class=\"shop-now\">Shop Now</button>"
+      }
     },
     {
       "username": "codeking.rw",
@@ -41,7 +60,11 @@
       "verified": false,
       "posts": 121,
       "joined": "2020-11-01",
-      "hashtags": ["#AI", "#Tech", "#Code"]
+      "hashtags": ["#AI", "#Tech", "#Code"],
+      "office_hours": "Weekly standup at 10:15, coding sessions 14:00-17:30",
+      "latest_post": {
+        "content": "Check out our latest <article class=\"tech-post\"><h3>Machine Learning Pipeline</h3><p>Built with TensorFlow and deployed on AWS</p></article>"
+      }
     },
     {
       "username": "healthplus_clinic",
@@ -55,7 +78,34 @@
       "verified": true,
       "posts": 312,
       "joined": "2021-01-10",
-      "hashtags": ["#KigaliHealth", "#Wellness", "#Health"]
+      "hashtags": ["#KigaliHealth", "#Wellness", "#Health"],
+      "opening_hours": "Monday-Friday 8:00 AM - 6:30 PM, Saturday 9:00 - 13:00, Sunday Closed",
+      "latest_post": {
+        "content": "<div class=\"announcement\"><h2>COVID-19 Vaccines Available</h2><p>Walk-ins welcome or book online</p><a href=\"/booking\" class=\"cta-button\">Book Appointment</a></div>"
+      }
+    }
+  ],
+  "events": [
+    {
+      "name": "Tech Meetup Kigali",
+      "date": "2023-12-15",
+      "time": "18:30 - 21:00",
+      "location": "Innovation Hub",
+      "description": "<div class=\"event-details\"><p>Join us for an evening of networking and tech talks!</p><ul><li>AI in Healthcare</li><li>Web3 Applications</li><li>IoT Solutions</li></ul></div>"
+    },
+    {
+      "name": "Web Development Workshop",
+      "date": "2024-01-10",
+      "time": "9:00 AM - 4:45 PM",
+      "location": "ALU Campus",
+      "description": "<section class=\"workshop\"><h3>Learn Full Stack Development</h3><p>Hands-on workshop covering <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and more!</p></section>"
+    },
+    {
+      "name": "Startup Networking Event",
+      "date": "2024-01-22",
+      "time": "17:00",
+      "location": "Norrsken House Kigali",
+      "description": "<div class=\"networking-event\"><img src=\"/events/networking.jpg\" alt=\"Networking Event\"><p>Connect with investors and fellow entrepreneurs</p></div>"
     }
   ]
 }
